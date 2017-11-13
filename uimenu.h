@@ -1,0 +1,2 @@
+void UIdispmenu();
+void UIrunMenu();
