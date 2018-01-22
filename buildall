@@ -1,4 +1,0 @@
-gcc -Wall -c uimenu.c
-gcc -Wall -c dmenu.c
-
-gcc -Wall dmenu.c uimenu.c -o funcAnalys

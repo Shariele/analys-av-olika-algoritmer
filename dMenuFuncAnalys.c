@@ -2,14 +2,14 @@
 /* DSA Sequence program                                                     */
 /****************************************************************************/
 #include <stdio.h>
-#include "uimenu.h"
+#include "uiMenuFuncAnalys.h"
 
 /****************************************************************************/
 /* main function - MenuDriver program                                       */
 /****************************************************************************/
 int main(int argc, char **argv){
    // printf("\n *** Start of Sequence program ");
-   UIrunMenu();
+   uiRunMenu();
    // printf(" *** End of Sequence program \n");
 
    return 0;

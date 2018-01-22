@@ -1,0 +1,2 @@
+void uiDispmenu();
+void uiRunMenu();
